@@ -4,8 +4,6 @@
 // @version      1.0
 // @description  Tự động mở âm thanh video trên Douyin khi vào trang lần đầu và đặt âm lượng 50%.
 // @author       Phan Đức
-// @icon         https://private-user-images.githubusercontent.com/120319793/352850943-9aa00857-9f1a-4a3f-b7c8-992cb2161ebb.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjIxODIyMDEsIm5iZiI6MTcyMjE4MTkwMSwicGF0aCI6Ii8xMjAzMTk3OTMvMzUyODUwOTQzLTlhYTAwODU3LTlmMWEtNGEzZi1iN2M4LTk5MmNiMjE2MWViYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzI4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcyOFQxNTUxNDFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lNmFhZmFhYjA4ZDgyMTVmZjkyYzQ3OWU2NmNkMmZhODk0NTViZTcyMzg0NmNhMWYxNWY4YzhkMDkxZTI3YmUyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.AYKXrrps9PPvV6C0Ej31cN2RaKPSPmBOQMVRF9OyW8E
-// @match        https://www.douyin.com/*
 // @match        https://*.douyin.com/*
 // @grant        none
 // ==/UserScript==
